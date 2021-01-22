@@ -1,0 +1,8 @@
+token.txt
+.vscode
+**.ignore
+**.pdf
+**pycache**
+**.pyc
+sNameEnv/
+**.json
